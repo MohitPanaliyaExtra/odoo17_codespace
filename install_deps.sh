@@ -54,6 +54,7 @@ zeep==4.2.1
 zope.event==5.0
 zope.interface==6.2
 rjsmin==1.2.0
+inotify
 EOF
 
 pip install -r odoo/requirements.txt
